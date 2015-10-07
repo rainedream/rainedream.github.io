@@ -4,7 +4,6 @@ title: "钱币收藏的七忌"
 date: 2015-10-07 13:11:12 +0800
 comments: true
 sharing: true
-footer: true
 categories: [收藏, 贵金属币章]
 ---
 
