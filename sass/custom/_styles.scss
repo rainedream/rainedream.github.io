@@ -1,2 +1,28 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+html {
+  background: $page-bg;
+}
+
+body {
+  header[role="banner"] {
+    @include background($header-bg-front);
+    height: 218px;
+
+    h1 {
+      line-height: 0.8em;
+      margin: 50px 0 0 380px;
+
+      a {
+          color: #61655F;
+          font-size: 16pt;
+      }
+    }
+
+    h2 {
+      color: #616880;
+      font-size: 11pt;
+      margin: 0 0 0 412px;
+    }
+  }
+}
