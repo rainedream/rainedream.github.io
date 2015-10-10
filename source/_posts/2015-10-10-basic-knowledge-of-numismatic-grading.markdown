@@ -4,7 +4,7 @@ title: "现代钱币鉴定评级的源流"
 date: 2015-10-10 22:03:52 +0800
 comments: true
 sharing: true
-categories: [收藏, 评级]
+categories: [收藏, 钱币, 评级]
 ---
 
 #### 鉴定评级币包括“鉴定”和“评级”两个主要方面。
