@@ -27,12 +27,18 @@ body {
   }
 }
 
-p {
+li, p {
   font-size: 12pt;
 }
 
 .sharing {
   margin-bottom: 10px;
+}
+
+@if $indented-lists == false {
+  @media only screen and (min-width: 768px) {
+    ul, ol { margin-left: 1.5em; }
+  }
 }
 
 #uyan_frame {
