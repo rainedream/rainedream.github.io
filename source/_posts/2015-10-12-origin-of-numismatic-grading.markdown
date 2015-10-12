@@ -4,7 +4,7 @@ title: "评级币的由来"
 date: 2015-10-12 21:41:56 +0800
 comments: true
 sharing: true
-categories:  [收藏, 评级]
+categories:  [收藏, 钱币, 评级]
 ---
 
 英文里没有和“品相”相对应的词。通常形容币的品相时用的是 condition，即“状况”。但是这个词太抽象、空泛，因此专业人士会使用 grade 一词，即“等级”或“品级”。其动词便是评级、分级。
