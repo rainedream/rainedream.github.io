@@ -52,3 +52,27 @@ article img {
 .comments {
   font-size: 10pt;
 }
+
+table {
+  margin-bottom: 10px;
+}
+
+th, td {
+  border: solid 1px #EDEDED;
+  font-size: 10pt;
+  padding: 5px;
+}
+
+th {
+  font-weight: bold;
+}
+
+td.near-separator-bar {
+  padding-left: 25px;  
+}
+
+hr {
+  height: 2px;
+  border: none;
+  border-top: 2px dotted #DDD;
+}

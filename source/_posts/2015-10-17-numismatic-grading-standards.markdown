@@ -1,0 +1,560 @@
+---
+layout: post
+title: "评级币评分标准及含义综述"
+date: 2015-10-17 09:28:50 +0800
+comments: true
+sharing: true
+categories:  [收藏, 钱币, 评级]
+---
+## 钱币评级知识
+
+钱币评级就是确定一枚钱币新旧程度的过程，这是一个相当主观的过程，传统上人们经常就用币相较好、很好等比较模糊的词来描述一枚硬币的外观。由于钱币的新旧程度对币值的影响非常大，简单的缺少标准化的硬币币相描述方式显然是不利于收藏币的市场交易的，经过长期的发展，人们逐渐建立了一套相对客观和标准化的钱币评级标准，这套标准起源于美国，目前在全世界已得到非常广泛的推广。
+
+在美国，较早的评级方式同样使用较含糊的词来给钱币分类，后期较完善的字母等级系统主要包括差（Poor或PO）、一般（Fair或Fr）、接近好（Almost Good或AG）、好（Good或G）、非常好（Very Good或VG）、精美（Fine或F）、非常精美（Very Fine或VF）、特别精美（Extra Fine或XF）、几乎未经流通（Almost Uncirculated或AU）、未经流通（Uncirculated或Unc）和亮丽未经流通（Brilliant Uncirculated或BU）。
+
+50年代，William H. Sheldon在他的书中第一次提出了Sheldon标准，这个标准使用数字来表示币的新旧，数字的范围为1－70。
+
+1986年，一家现代专业钱币鉴定评级公司PCGS在美国成立。这家公司综合了上述的两个评级方法，同时用字母和数字来为钱币的新旧评级，具体的级别包括BS-1、FR-2、AG-3、G-4、G-6、VG-8、VG-10、F-12、F-15、VF-20、VF-25、VF-30、VF-35、XF-40、XF-45、AU-50、AU-53、AU-55、Au-58、MS-60、MS-61、MS-62、MS-63、MS-64、MS-65、MS-66、MS-67、MS-68、MS-69和MS-70。
+
+这里MS是Mint State的缩写，意味像刚铸造出来的一样。等级越高，等级间的差别也越大，但如果想仅评个人观察确定一枚币的等级，则需要大量的经验实践来练就一双火眼金睛，而顶级定级公司中的鉴定工作人员就是这样一些经过大量训练的专家。事实上，MS69和MS70之间的差别只能通过显微镜观察到。这套级别适用于普制币；对精制币，有一套类似的标准适用，从PF1到PF70。
+
+目前，世界上最权威的钱币定级公司有PCGS、NGC和ANACS三家。这些公司目前都已扩展到能对世界上大多数国家发行的钱币进行鉴定定级，包括中国从民国建国以来所发行的所有钱币以及清末的一些币种。经过鉴定的钱币，这些公司会用特制的保护盒将钱币密封，并在盒上贴上带有鉴定定级结果的标签，同时将资料保存在计算机数据库中。这些公司会定期公布所鉴定的各种钱币的数量以及其中各等级所占的百分比，由此对钱币的市场交易价提供一个参考。除了这三家公司上，世界上还有很多其他的鉴定定级公司，但这些公司的权威性普遍得到怀疑。
+
+钱币的等级对钱币的市场交易价有非常大的影响，一个级别的差别就可能导致价格相差数倍。以美国50州25分系统中1999年由费城铸币厂铸造的康涅狄格州25分为例，在今天PCGS提供的市场参考价中，MS65级价格为20美元一枚，MS66级为25美元，MS67级为140美元，MS68级为1000美元，MS69级为6500美元，而目前还未发现有MS70级康涅狄格州25分硬币，因此其参考价格栏为空。正是因为存在这种价格上的巨大差异，很多人从事一种称为Coin Cracking的业务。这种业务利用人为评定硬币级别的主观性，从市场上收购某些已得到定级的钱币，将其密封盒砸开后将钱币重新送定级公司评定，寄希望于新的鉴定级别能比原先鉴定的高一级，从而赚取巨额的利润。
+
+作为普通的钱币收藏者，所要做的就是尽量保持手中收藏币的外观，避免损伤钱币，从而导致钱币价值流失。原则上，任何时候都不要用手直接接触硬币表面，因为皮肤分泌的油脂会永久损害钱币的光泽。应带上专用手套后拿取钱币，为避免留下划痕，应尽量从边缘抓取硬币，避免接触上下表面。原则上没有必要清洗硬币的必要，因为这很容易留下划痕或影响钱币表面的光泽。绝对需要避免是意外跌落钱币，因为这几乎100%会给钱币带来损伤。
+
+## 关于PCGS评级公司和评定标准
+
+#### PCGS（Professional Coin Grading Service），专业钱币分级服务公司
+
+美国的著名专门针对硬币进行鉴定、分级、评分的公司。鉴定过的硬币会被装入一个密封的小盒子并被标记分数以及编号。其会员能够通过网络系统根据编号查询相关信息。
+
+为了适应美国硬币交易中不断追求高品级的需要，美国钱币协会于20世纪70年代制定了《美国钱币协会美国硬币评级正式标准》（0fficial ANA Grading Standards for United States Coins, OAGS）。此标准由布雷塞特（Ken Bresett）及科索夫（A.Kosoff）编写，并已多次修订出版。
+
+目前，这一分级方法正在美国逐步推广，但现尚未得到国际上的普通认可。这一标准的特点是首先将币面品级分为三档：精制品、未流通品、流通品。然后在每品后缀有一定数字(3-70)以表示其品级高低。这一标准出笼后，由于较为明确合理，且市场买卖双方均有迫切统一标准的要求，所以很快为大家所接受。目前美国出版的书刊已全部采用该标准，其他英语国家钱币界亦普遍引用，非英语国家则参照后制定尽量接近的品相评级系统。
+    
+分级的标准一般为：
+
+    MS 60-70 Mint State(Uncirculated) 未流通
+    AU 50,53,55,58 About Uncirculated 介于流通与未流通
+    XF 40,45 Extremely Fine 极其精美
+    VF 20,25,30,35 Very Fine 非常精美
+    F 12,15 Fine 精美
+    VG 8,10 Very Good 非常好
+    G 4,6 Good 良好
+    AG 3 About Good 较好
+    FA 2 Fair 一般
+    PR 1 Poor 差
+
+  1. 精制品（Proof Coins）。精制品原则上并非品相分级，而是一种特殊的制造工艺。由于精制品一般都在问世时即为人们所收藏，所以都是未经流通品。最早的精制品出现于1850年左右，数量很少，到20世纪30年代后，各国造币厂才普遍制造。
+　　
+      * Proof-70。又称为完美精制(Pefect Proof)，是币面完美无疵的最高级别，没有任何划痕、包装划痕及缺陷。币面可以是光泽如新，也可以是自然本色。
+    
+      * Proof-67。介于Proof-70与Proof-65之间。
+    
+      * Proof-65。即精选精制（Choice Proof），用4倍放大镜可见轻微划痕或缺陷，一般说来已臻完美。
+    
+      * Proof-63。介于Proof-65与Proof-60之间。
+    
+      * Proof-60。用肉眼可见分散的疵点。
+    
+      * Proof-55。即损伤精制(Impaired Proof)，精制币虽不流通，但在交易、清洗中也有可能造成一些疵病。
+    
+  2. 未流通品（Uncirculated Coins，Mint State Coins，MS）。指制币厂出厂后未投入市场流通的全新币，所以也叫出厂币。这些钱币大都是在厂内就封装的。成套封装的称为出厂币套币，系专为收藏者制作，售价略高。
+
+      * MS-70。即完美未流通(Perfect Uncirculated)，属普制币中的最佳状态，用4倍放大镜可发现一些疵病。由于币面光泽(而不是划痕、疵病)的差异又分为光亮完美未流通(MS-70，Brilliant)和本色完美未流通(MS-70， toned)。后者币面呈自然本色，但不一定光亮。
+    
+      * MS-67。介于MS-70与MS-65之间。
+    
+      * MS-65。即精美未流通（Gem Uncirculated），可以是光亮或自然本色，有少量包装划痕和一二个边缘疵病。
+    
+      * MS-63。又称精选未流通（Choice Uncirculated），介于MS-65与MS-60之间。
+    
+      * MS-60。即标准未流通(Typical Uncirculated)，有一定的划痕疵病，边缘也有少量磕碰，光亮或本色。
+    
+  3. 流通品（Circulated Coins）。
+
+      * AU-55。即精选近于未流通（Choice About Uncirculated），仅在币面凸起部分有轻微磨损痕迹。
+    
+      * AU-50。即近于未流通（About Uncirculated），币面凸起部分均有不同程度磨损痕迹，至少有一半以上币面保持原有光泽。
+
+      * EF-45。即精选极美（Choice Extremely Fine），币面凸起部分均有磨损，但全部细部清晰，币面部分区域（如文字间）保持原有金属光泽。
+
+      * EF-40。即极美（Extremely Fine），币面均有磨损，但图像仍清晰，币面仍有少量原有金属光泽。
+    
+      * VF-30。即精选优美（Choice Very Fine），凸起部分磨损更多，但所有主要图像清晰。
+    
+      * VF-20。即优美（Very Fine），与VF-30相比，凸部磨损更甚。
+    
+      * F-12。即美品（Fine），严重磨损，总体尚可辨清。
+    
+      * VG-8。即上佳（Very Good），细部已几乎磨平。
+    
+      * G-4。即佳品（Good），磨损更甚，仅能分辨出主要图像。
+    
+      * AG-3。即近于佳品（About Good），几乎所有部分已接近磨平，有时仅能辨明年代。
+    
+另外，精制品还可分为以下3类：
+
+  1. 霜(镜)面精制（Frosted Proof）。指币面凸出部分为凝霜面，凹入部分为镜面，属标准精制品状态。从1936年起，各主要造币厂开始普遍制造。
+  
+  2. 钝(砂)光精制（Matte Proof）。模具经喷砂或酸蚀后未经抛光，所以币面凹凸部分均为钝光面。
+
+  3. 类(半)精制（Prooflike，P/L）。即并未采用精制工艺，而是用新的模具在最初压印中所得出的表面光洁、轮廓清晰的高质量普制硬币，币面凹入部分近于镜面（因未抛光），凸出部分没有凝霜效果（因未喷砂），严格说来实与AU-55品级相近。
+
+---
+
+##### PCGS 评分英文解意
+
+<table>
+	<tr>
+		<th style="width: 40px;">评分</th>
+		<th>英文</th>
+		<th>评分</th>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>Superb Gem BU</td>
+		<td>非常顶级状态的币，通常在评级现代币不到70分或69分 装在一起被封起来所用的</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>Genuine</td>
+		<td>真币，这个也是在特殊情况下才用的数字</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>Pended</td>
+		<td>等待，这个通常用在当天评级或者特快评级送去的但是有些疑问在币上不能及时按照正常的时限内出分数和邮给客户所用的</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>Filed Rims</td>
+		<td>锉边，通常有一些真币或者想要放在珠宝环里面做装饰或者因为各种原因用锉刀把钱币的边缘或者边齿给锉了～虽然假币目前有很多是这种效果，因为边太生硬。不过用82都是指真币而言</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>Peeling Lamination</td>
+		<td>起皮，通常是指在钱币上出现了币肧有裂起皮的</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>Holed and Plugged</td>
+		<td>堵窟窿，在币上面有钻过洞的被堵上</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>DID NOT CROSS</td>
+		<td>不换盒，通常是在其它公司的评级盒去PCGS想换盒子。因为评级不到其它公司的分数评级或者没有到客户填写的分数评级就不给换盒</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>No Opinion</td>
+		<td>专家无法鉴别币的真伪，评级费退回</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>Not Eligible For Service Selected</td>
+		<td>币相较于所选择的评级服务等级太过贵重（服务费太少了～）</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>Gem Proof</td>
+		<td>非常好的镜面币，通常是在大量送评然后不到客人要求的分数的币装在一卷里面用的</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>Brilliant Uncirculated</td>
+		<td>在大量送评，但达不到分数要求，且品相不如‘79’（那种特别高分数的效果）时就用这个</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>Questionable Authenticity</td>
+		<td>币疑似伪造</td>
+	</tr>
+	<tr>
+		<td>91|N-1</td>
+		<td>Questionable/Artificial Toning</td>
+		<td>铜币包浆似假</td>
+	</tr>
+	<tr>
+		<td>92|N-2</td>
+		<td>Cleaned</td>
+		<td>因清洗不当，币表面受损</td>
+	</tr>
+	<tr>
+		<td>93|N-3</td>
+		<td>Planchet Flaw</td>
+		<td>因压铸过度，造成金属胚饼缺陷 { Metal impurity or defect in the planchet – depends on severity }</td>
+	</tr>
+	<tr>
+		<td>94|N-4</td>
+		<td>Altered Surface</td>
+		<td>改刻，不当清洗，指纹印痕 { Whizzed, harsh cleaning, thumbed over (using a pasty substance to cover defects or alter the appearance) }</td>
+	</tr>
+		<tr>
+		<td>95|N-5</td>
+		<td>Scratch</td>
+		<td>划痕过深</td>
+	</tr>
+	</tr>
+		<tr>
+		<td>96|N-6</td>
+		<td>No Service</td>
+		<td>不提供鉴定评级服务 { coins we do not certify (i.e. medals, some privately made issues, etc.) or cannot certify (i.e. over-sized coins) }</td>
+	</tr>
+	</tr>
+	<tr>
+		<td>97|N-7</td>
+		<td>Environmental Damage</td>
+		<td>腐蚀，附着其它东西，或包浆过厚 { i.e. corrosion, coating (lacquer), excessively heavy toning, etc. }</td>
+	</tr>
+	<tr>
+		<td>98|N-8</td>
+		<td>Damage</td>
+		<td>故意对表面毁坏，乱划，改刻 { deliberate surface damage, i.e. graffiti, spot(s) removed, etc. – depends on severity }</td>
+	</tr>
+	<tr>
+		<td>99|N-9</td>
+		<td>PVC (Poly-Vinyl-Chloride)</td>
+		<td>PVC塑料封套分解，造成币污染 { a plasticizer used to produce vinyl that will leach out of the holder and onto the coin, eventually damaging the surfaces. }</td>
+	</tr>
+</table>
+
+---
+
+##### NGC硬币鉴定评级标准
+
+钱币等级鉴定是一个团队协作工作过程，由至少三名职业等级鉴定专家对每一枚钱币进行鉴定。NGC的等级鉴定师虽然都来自不同的背景，但他们都有从事钱币经销的工作经验。因为在钱币市场等级鉴定方面，经验是商业部门一个至关重要的因素。并且值得一提的是，与其他所有钱币鉴定服务机构不同的是，NGC严格规定自身机构内的全职等级鉴定师，不得参与任何的钱币商业买卖活动。
+
+每一枚钱币都要接受每位鉴定师的一次检查，然后每个鉴定师对每一枚钱币个人划分系统等级。NGC所采用的钱币评级标准是全世界钱币业广泛认同的。下面这张表就是对于钱币等级的表述：
+
+<table>
+	<tr>
+		<th>前缀</th>
+		<th>数字等级</th>
+		<th>描述说明</th>
+		<th>Adjectival Description</th>
+	</tr>
+	<tr>
+		<td>MS</td>
+		<td>60 - 70</td>
+		<td>未流通</td>
+		<td>Mint State (Uncirculated)</td>
+	</tr>
+	<tr>
+		<td>AU</td>
+		<td>50, 53, 55, 58</td>
+		<td>介于未流通与流通间</td>
+		<td>About Uncirculated</td>
+	</tr>
+	<tr>
+		<td>XF</td>
+		<td>40, 45</td>
+		<td>极其精美</td>
+		<td>Extremely Fine</td>
+	</tr>
+	<tr>
+		<td>VF</td>
+		<td>20, 25, 30, 35</td>
+		<td>非常精美</td>
+		<td>Very Fine</td>
+	</tr>
+	<tr>
+		<td>F</td>
+		<td>12, 15</td>
+		<td>精美</td>
+		<td>Fine</td>
+	</tr>
+	<tr>
+		<td>VG</td>
+		<td>8, 10</td>
+		<td>非常好</td>
+		<td>Very Good</td>
+	</tr>
+	<tr>
+		<td>G</td>
+		<td>4, 6</td>
+		<td>良好</td>
+		<td>Good</td>
+	</tr>
+	<tr>
+		<td>AG</td>
+		<td>3</td>
+		<td>较好</td>
+		<td>About Good</td>
+	</tr>
+	<tr>
+		<td>FA</td>
+		<td>2</td>
+		<td>一般</td>
+		<td>Fair</td>
+	</tr>
+	<tr>
+		<td>PR</td>
+		<td>1</td>
+		<td>差</td>
+		<td>Poor</td>
+	</tr>	
+</table>
+
+除了等级描述外，NGC还会对某些钱币标注特征，部分描述中文解释如下：
+
+<table>
+	<tr>
+		<td>PF: Proof</td>
+		<td>精制币</td>
+		<td class="near-separator-bar">SP：Specimen</td>
+		<td>样币</td>
+	<tr>
+	<tr>
+		<td>RD：Red</td>
+		<td>红色</td>
+		<td class="near-separator-bar">RB：Red Brown</td>
+		<td>红棕色</td>
+	</tr>
+	<tr>
+		<td>BN：Brown</td>
+		<td>棕色</td>
+		<td class="near-separator-bar">CA：Cameo</td>
+		<td>浮雕</td>
+	</tr>
+</table>
+
+NGC会对表面状况（品相）存在问题（瑕疵）的钱币进行“Details Grading”评级封装，此类钱币将被封装在一个紫色的固定器内，标签上会注明表面状况的描述以及与钱币磨损程度相应的等级，部分描述中文解释如下：
+
+<table>
+	<tr>
+		<td>Artificial Toning</td>
+		<td>人工氧化</td>
+    </tr>
+    <tr>
+    	<td>Chopmarks</td>
+    	<td>戳记</td>
+    </tr>
+    <tr>
+    	<td>Corrosion</td>
+    	<td>腐蚀</td>
+    </tr>
+    <tr>
+        <td>Environmental Damage</td>
+        <td>环境损坏</td>
+    </tr>
+    <tr>
+    	<td>Mount Removed</td>
+    	<td>通过机械手段修复硬币。修复的原因很多～一些年代久远的钱币，特别是美国的女神像金银币，为了串链当作首饰而被打了孔。这种打孔的钱币通常会被填补起来，虽然是经过精心修补，但是大部分专家都能发现修补的痕迹。这样的钱币会被标记“Mount Removed”并退回</td>
+    </tr>
+    <tr>
+        <td>Improperly Cleaned</td>
+      	<td>不当清洗</td>
+    </tr>
+    <tr>
+        <td>Rim Damage</td>
+        <td>齿边损伤</td>
+    </tr>
+   	<tr>
+        <td>Scratches</td>
+        <td>刮伤</td>
+    </tr>
+    	<td>Stained</td>
+    	<td>玷污</td>
+    </tr>
+    <tr>
+    	<td>Surface Hairlines</td>
+    	<td>表面发线刮痕</td>
+    </tr>
+    <tr>
+        <td>Whizzed</td>
+        <td>打磨</td>
+	</tr>
+</table>
+
+某些钱币无法进行数字评级或者封装，例如，已经严重受损的钱币或者非常清洗严重的钱币，NGC将不予认证，然后用塑料盒包装退还给申请者，里面附上拒绝封装的理由。NGC富有经验的专家能够准确地筛选出无法认证的钱币，部分描述中文解释如下：
+
+<table>
+	<tr>
+		<td>Authenticity Unverifiable</td>
+		<td>无法鉴定</td>
+	</tr>
+	<tr>
+        <td>Ineligible Types</td>
+        <td>不符类型</td>
+    </tr>
+    <tr>
+        <td>Not Genuine</td>
+        <td>假币</td>
+    </tr>
+    <tr>
+        <td>PVC</td>
+        <td>聚氯乙烯</td>
+    </tr>
+    <tr>
+        <td>Questionable Authen</td>
+      	<td>存疑</td>
+    </tr>
+    <tr>
+        <td>Residue</td>
+        <td>残留物</td>
+	</tr>
+</table>
+
+---
+
+##### PMG纸币鉴定评级标准
+
+每张纸币都严格按照全世界钱币领域广泛认同的70级谢尔登评级（70-point Sheldon scale）标准进行评定，并指定一个一致的等级。下面这张表就是对于钱币等级的表述：
+
+<table>
+	<tr>
+		<th>前缀</th>
+		<th>数字等级</th>
+		<th>描述说明</th>
+		<th>Adjectival Description</th>
+	</tr>
+	<tr>
+		<td>CU</td>
+		<td>70</td>
+		<td>70级精选未流通</td>
+		<td>Seventy Gem Uncirculated</td>
+	</tr>
+	<tr>
+		<td>CU</td>
+		<td>67-69</td>
+		<td>超级精选未流通</td>
+		<td>Super Gem Uncirculated</td>
+	</tr>
+	<tr>
+		<td>CU</td>
+		<td>65-66</td>
+		<td>精选未流通</td>
+		<td>Gem Uncirculated</td>
+	</tr>
+	<tr>
+		<td>CU</td>
+		<td>63-64</td>
+		<td>近于精选未流通</td>
+		<td>Choice Uncirculated</td>
+	</tr>
+	<tr>
+		<td>CU</td>
+		<td>60-62</td>
+		<td>未流通</td>
+		<td>Uncirculated</td>
+	</tr>
+	<tr>
+		<td>AU</td>
+		<td>50, 53, 55, 58</td>
+		<td>介于未流通与流通之间</td>
+		<td>About Uncirculated</td>
+	</tr>
+	<tr>
+		<td>XF</td>
+		<td>40, 45</td>
+		<td>极其精美</td>
+		<td>Extremely Fine</td>
+	</tr>
+	<tr>
+		<td>VF</td>
+		<td>20, 25, 30, 35</td>
+		<td>非常精美</td>
+		<td>Very Fine</td>
+	</tr>
+	<tr>
+		<td>F</td>
+		<td>12, 15</td>
+		<td>精美</td>
+		<td>Fine</td>
+	</tr>
+	<tr>
+		<td>VG</td>
+		<td>8, 10</td>
+		<td>非常好</td>
+		<td>Very Good</td>
+	</tr>
+	<tr>
+		<td>G</td>
+		<td>4, 6</td>
+		<td>良好</td>
+		<td>Good</td>
+	</tr>
+	<tr>
+		<td>AG</td>
+		<td>3</td>
+		<td>较好</td>
+		<td>About Good</td>
+	</tr>
+	<tr>
+		<td>FA</td>
+		<td>2</td>
+		<td>一般</td>
+		<td>Fair</td>
+	</tr>
+	<tr>
+		<td>PR</td>
+		<td>1</td>
+		<td>差</td>
+		<td>Poor</td>
+	</tr>
+</table>
+
+除了等级描述外，PMG还会对某些纸币标注特征，部分描述中文解释如下：
+
+<table>
+	<tr>
+		<td>EPQ</td>
+		<td colspan="3">
+		Exceptional Paper Quality，即优良纸质，表示纸钞出厂后未经过物理上、化学上的加工处理，或是环境的污染与破坏。出现修补、清洗、玷污、腐蚀、虫蛀等情况的纸币均不可能拥有EPQ标识。
+		</td>
+	</tr>
+	<tr>
+		<td>NET Grade</td>
+		<td colspan="3">
+		类似于硬币评级中的“Details Grading”。PMG对于NET的评定是比较严谨的，当NET Grade出现时，代表纸币本身遭遇较为严重的外力破坏或影响。例如，纸币有撕破，缺角，修理过的，重新压印，洗过的，玷污的，沾到墨水或有笔迹，受聚氯乙烯腐蚀、胶带修补、虫蛀等情况均可能造成NET的评级出现。在封装套的背面通常都会备注评定为NET的原因。
+		</td>
+	<tr>
+	<tr>
+		<td>Chopmarks</td>
+		<td>戳记</td>
+		<td class="near-separator-bar">PVC Damage</td>
+		<td>聚氯乙烯损害</td>
+	</tr>
+	<tr>
+		<td>Repaired</td>
+		<td>修补</td>
+		<td class="near-separator-bar">Restoration</td>
+		<td>修复</td>
+	</tr>
+	<tr>
+		<td>Repaired</td>
+		<td>修补</td>
+		<td class="near-separator-bar">Restoration</td>
+		<td>修复</td>
+	</tr>
+	<tr>
+		<td>Stained</td>
+		<td>玷污</td>
+		<td class="near-separator-bar">Specimen</td>
+		<td>样票</td>
+	</tr>
+</table>
+
+某些纸币无法进行数字评级或者封装，例如，已经严重受损的纸币或者不符类型的纸币，PMG将不予认证，然后用塑料套包装退还给申请者，里面附上拒绝封装的理由。PMG富有经验的专家能够准确地筛选出无法认证的钱币，部分描述中文解释如下：
+
+<table>
+	<tr>
+		<td>Altered Note</td>
+		<td>人为改动</td>
+		<td class="near-separator-bar">Ineligible Type</td>
+		<td>不符类型</td>
+	</tr>
+	<tr>
+		<td>Not Genuine</td>
+		<td>假币</td>
+		<td class="near-separator-bar">Questionable Authen</td>
+		<td>存疑</td>
+	</tr>
+</table>
+
+<br><br>
+摘自：[华夏收藏百科｜评级币评分标准及含义综述](http://baike.cang.com/view/13092.html)
