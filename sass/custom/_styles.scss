@@ -49,6 +49,10 @@ article img {
   max-width: 320px;
 }
 
+article img.widescreen {
+  max-width: 650px;
+}
+
 .comments {
   font-size: 10pt;
 }
@@ -68,7 +72,7 @@ th {
 }
 
 td.near-separator-bar {
-  padding-left: 25px;  
+  padding-left: 25px;
 }
 
 hr {
