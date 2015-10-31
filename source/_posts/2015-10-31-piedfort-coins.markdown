@@ -84,3 +84,5 @@ categories:  [收藏, 钱币]
 
 
 <img src="/images/posts/1980_moscow_olympics_archery_piedfort_brass.jpg" alt="Olympics Archery Piedfort Brass" class="widescreen">
+
+摘自：[葛祖康的博客｜关于加厚币](http://blog.sina.com.cn/s/blog_77124d070100zqkf.html)
