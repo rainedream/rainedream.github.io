@@ -3,7 +3,7 @@ layout: post
 title: "收藏金银币的「三重境界」"
 date: 2015-10-07 20:12:35 +0800
 comments: true
-categories: [收藏, 贵金属币章]
+categories: [钱币, 贵金属币章]
 ---
 晚清学者王国维的《人间词话》之二六，原文如下：
 

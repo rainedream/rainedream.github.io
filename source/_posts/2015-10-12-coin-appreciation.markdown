@@ -4,7 +4,7 @@ title: "学会看币"
 date: 2015-10-12 20:14:55 +0800
 comments: true
 sharing: true
-categories:  [收藏, 钱币]
+categories:  [钱币]
 ---
 
 ### 看币的态度
@@ -60,7 +60,7 @@ Travers 强调要反复练习，练就快速看币的眼力，因为在好多场
   * 泛光灯：从AU55提升到MS60
   * 裸丝白炽灯：从MS60（丑陋）提升到MS65（漂亮）
   * 泛光灯加裸丝白炽灯：从AU55提升到MS65
-  
+
 ![Bronze Age Creature Reverse](/images/posts/bronze_age_creature_g200_rev.jpg)
 ![Bronze Age Creature Obverse](/images/posts/bronze_age_creature_g200_obv.jpg)
 

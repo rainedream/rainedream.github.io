@@ -4,7 +4,7 @@ title: "经典钱币"
 date: 2015-10-31 16:23:15 +0800
 comments: true
 sharing: true
-categories:  [收藏, 钱币]
+categories:  [钱币]
 ---
 
 ## 中国

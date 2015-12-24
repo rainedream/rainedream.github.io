@@ -4,7 +4,7 @@ title: "加厚币"
 date: 2015-10-31 10:56:25 +0800
 comments: true
 sharing: true
-categories:  [收藏, 钱币]
+categories:  [钱币]
 ---
 
 ##### 作者：葛祖康
