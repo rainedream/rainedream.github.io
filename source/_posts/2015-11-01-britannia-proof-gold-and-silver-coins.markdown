@@ -39,14 +39,18 @@ categories:  [收藏, 钱币, 贵金属币章]
 
 > 「皇家铸币局咨询委员会」：Royal Mint Advisory Committee，此委员会于1922年由英王乔治五世御准成立，至今所有成员仍须女王指派。所有英国钱币及纪念章必须经过委员会评核。经评核合格的设计，要再由经验丰富的工匠精雕细琢，雕成铸模后方可生产，生产过程再用现金的高科技技术，如利用X光仪测试金属含量，以保钱币纯度等。
 
+###### 1997年前 精制金币共同背面
 ![1997年前 精制金币共同背面](/images/posts/britannia_gold_coin_1997_rev.jpg)
 
+###### 1987年~1997年 精制金币正面
 ![1987年 1OZ精制金币正面](/images/posts/britannia_gold_coin_1987_obv.jpg)
 ![1991年 1OZ精制金币正面](/images/posts/britannia_gold_coin_1991_obv.jpg)
-![1997年 1OZ精制金币正面](/images/posts/britannia_gold_coin_unknown_obv.jpg)
+![1997年 1OZ精制金币正面](/images/posts/britannia_gold_coin_1997_obv.png)
 
+###### 1998年后 精制金币共同背面
 ![1998年后 精制金币共同背面](/images/posts/britannia_gold_coin_1998_rev.jpg)
 
+###### 1988年~2015年 精制金币正面
 ![1988年 1OZ精制金币正面](/images/posts/britannia_gold_coin_1998_obv.jpg)
 ![2001年 1OZ精制金币正面](/images/posts/britannia_gold_coin_unknown_obv.jpg)
 ![2003年 1OZ精制金币正面](/images/posts/britannia_gold_coin_2003_obv.jpg)
